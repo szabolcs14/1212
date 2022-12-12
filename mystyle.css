@@ -6,3 +6,7 @@ a {
     text-decoration: none;
     text-decoration-color: red;
 }
+
+.alcim{ 
+    outline-style:20px dashed red;  
+}
