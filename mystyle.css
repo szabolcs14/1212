@@ -8,7 +8,8 @@ a {
 }
 
 .alcim{ 
-    border-bottom:20px dashed red; 
+    padding:20px;
+    background-color: red; 
 }
 
 div {
