@@ -10,3 +10,9 @@ a {
 .alcim{ 
     border-bottom:20px dashed red; 
 }
+
+div {
+    border:1px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
