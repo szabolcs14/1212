@@ -4,13 +4,9 @@ body {
 
 a {
     text-decoration: none;
-<<<<<<< HEAD
     text-decoration-color: red;
 }
 
 .alcim{ 
-    outline-style:20px dashed red;  
-=======
-    color: red;
->>>>>>> 7309681eda8e6f94a40dd54b035c91748bfba61a
+    outline-style:20px dashed red; 
 }
